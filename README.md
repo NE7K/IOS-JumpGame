@@ -12,7 +12,7 @@
 
 <br>
 
-## 🎞 Demo
+## 📱 Demo
 
 <img src="https://github.com/user-attachments/assets/65d14c51-4d8a-4cb8-9a32-382cccbffc82">
 
